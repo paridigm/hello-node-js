@@ -1,0 +1,11 @@
+#--------------------------------------------#
+# ignore node modules                        #
+# they can be downloaded on another computer #
+#--------------------------------------------#
+node_modules/
+
+
+#--------------------------------------------#
+# not sure how the modules will get to       #
+# the ending server when deployed though...  #
+#--------------------------------------------#
